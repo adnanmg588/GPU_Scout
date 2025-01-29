@@ -206,4 +206,4 @@ If you encounter any issues, please let me know.
 **Always ensure thorough testing of any script on test resources prior to deployment in a production environment to avoid potential outages or unexpected costs. The GPU_Scout script does not interact with or create any resources in your existing environment.**
 
 **This script is an independent tool developed by Adnan Akbar and is not affiliated with or supported by Oracle.
-It is provided as-is and without any warranty or official endorsement from Oracle**
+It is provided as-is and without any warranty or official endorsement from Oracle.**
