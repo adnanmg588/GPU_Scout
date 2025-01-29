@@ -124,7 +124,7 @@ python3 ./GPU_Scout.py -region all_regions
 
 ```bash
 python3 -m pip install oci -U --user
-git clone https://github.com/Adnan-Akbar/GPU_Scout
+git clone https://github.com/adnanmg588/GPU_Scout
 ```
 
 If you run this script from an OCI compute instance you should use [Instance Principal authentication](https://docs.public.oneportal.content.oci.oraclecloud.com/en-us/iaas/Content/Identity/Tasks/callingservicesfrominstances.htm).
