@@ -12,7 +12,7 @@ Output meanings are:
 - **HARDWARE_NOT_SUPPORTED** => The necessary hardware has not yet been deployed in this region.
 - **OUT_OF_HOST_CAPACITY** => Additional hardware is currently being deployed in this region
 
-**version: 3.0.3**
+**version: 1.0.1**
 - DRCC customers and whitelisted tenancies can now display 'available_count' value using '-drcc' argument
 
 ## Quick Start
