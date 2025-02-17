@@ -2,7 +2,7 @@
 
 **Check the Availability of Any Compute Shape Across OCI Regions !**
 
-Easily find out which regions offer the latest compute shapes, such as VM.Standard.E5.Flex.
+Easily find out which regions offer the latest compute (GPU) shapes. 
 
 GPU_Scout provides the availability status down to the Fault Domain level and automatically relaunches after completing the first query or encountering an error.
 
