@@ -1,4 +1,4 @@
-# GPU_Scout
+# GPU_Scout by adnan.akabr@oracle.com (Master Principal Solution Engineer, JAPAC Hub, D - Tech Hub SE )
 
 **Check the Availability of Any Compute Shape Across OCI Regions !**
 
