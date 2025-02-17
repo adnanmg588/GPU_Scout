@@ -31,7 +31,7 @@ python3 ./GPU_Scout/GPU_Scout.py
 - [Examples of Usage](#examples-of-usage)
 - [Setup](#setup)
 - [Screenshots](#screenshots)
-- [Compute Shapes Tested and Validated](#compute-shapes-tested-and-validated-as-of-september-1-2024)
+- [Compute Shapes Tested and Validated](#compute-shapes-tested-and-validated)
 - [Questions and Feedback](#questions-and-feedback)
 - [Disclaimer](#disclaimer)
 
