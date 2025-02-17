@@ -1,4 +1,4 @@
-# GPU_Scout - GPU Finder Tool by (Technology HUB JAPAC)
+# GPU_Scout - GPU Finder Tool Initiative by  Technology HUB JAPAC
 
 **Check the Availability of Any Compute Shape Across OCI Regions !**
 
