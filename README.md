@@ -1,4 +1,4 @@
-# GPU_Scout by adnan.akabr@oracle.com (Master Principal Solution Engineer, JAPAC Hub, D - Tech Hub SE )
+# GPU_Scout - GPU Finder Tool by adnan.akbar@oracle.com
 
 **Check the Availability of Any Compute Shape Across OCI Regions !**
 
