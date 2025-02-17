@@ -172,7 +172,7 @@ python3 ./GPU_Scout.py \
 ##### Run script without tenancy admin rights :
 ![01](./.images/03.png)
 
-## Compute Shapes Tested and Validated as of September 1, 2024
+## Compute Shapes 
 
 This list includes all the compute shapes that have been tested with this script.
 However, it does not represent the only shapes you can use.
