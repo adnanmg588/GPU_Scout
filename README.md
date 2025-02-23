@@ -1,5 +1,5 @@
-# GPU_Scout - GPU Finder Tool: A Technology HUB JAPAC Initiative, driven by Mahesh Krishnan Ramanathan's vision, to streamline GPU discovery and accessibility.
-
+# GPU_Scout - GPU Finder Tool: 
+# A Technology HUB JAPAC Initiative, driven by Mahesh Krishnan Ramanathan's vision, to streamline GPU discovery and accessibility.
 **Check the Availability of Any Compute Shape Across OCI Regions !**
 
 Easily find out which regions offer the latest compute (GPU) shapes. 
