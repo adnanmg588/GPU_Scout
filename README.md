@@ -4,24 +4,12 @@
 
 Easily find out which regions offer the latest compute (GPU) shapes. 
 
-GPU_Scout provides the availability status down to the Fault Domain level and automatically relaunches after completing the first query or encountering an error.
-
-Output meanings are:
+Output Options are:
 
 - **AVAILABLE** => The capacity for the specified shape is currently available.
 - **HARDWARE_NOT_SUPPORTED** => The necessary hardware has not yet been deployed in this region.
 - **OUT_OF_HOST_CAPACITY** => Additional hardware is currently being deployed in this region
-
-**version: 1.0.1**
-- DRCC customers and whitelisted tenancies can now display 'available_count' value using '-drcc' argument
-
-## Quick Start
-
-```
-python3 -m pip install oci -U --user
-git clone git clone https://github.com/adnanmg588/GPU_Scout
-python3 ./GPU_Scout/GPU_Scout.py
-```
+- - DRCC customers and whitelisted tenancies can now display 'available_count' value using '-drcc' argument
 
 ## Table of Contents
 
@@ -34,7 +22,14 @@ python3 ./GPU_Scout/GPU_Scout.py
 - [Compute Shapes Tested and Validated](#compute-shapes-tested-and-validated)
 - [Questions and Feedback](#questions-and-feedback)
 - [Disclaimer](#disclaimer)
-
+  
+**version: 1.0.1**
+## Quick Start
+```
+python3 -m pip install oci -U --user
+git clone git clone https://github.com/adnanmg588/GPU_Scout
+python3 ./GPU_Scout/GPU_Scout.py
+```
 ## How to use GPU_Scout?
 
 ```bash
