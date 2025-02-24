@@ -24,7 +24,7 @@ Output Options are:
 - [Questions and Feedback](#questions-and-feedback)
 - [Disclaimer](#disclaimer)
   
-**version: 1.0.1**
+**version: 3.0.1**
 ## Quick Start
 ```
 python3 -m pip install oci -U --user
