@@ -193,7 +193,7 @@ If you encounter any issues, please let me know.
 | VM.Standard.B1.1    | VM.Standard.B1.16    | VM.Standard.B1.2.      | VM.Standard.B1.4      |
 | VM.Standard.B1.8    | VM.Standard.E2.1     | VM.Standard.E2.1.Micro | VM.Standard.E2.2      |
 | VM.Standard.E2.4    | VM.Standard.E2.8     | VM.Standard.E3.Flex    | VM.Standard.E4.Flex   |
-| VM.Standard.E5.Flex |	
+| VM.Standard.E5.Flex |	VM.GPU.H100.1| VM.GPU.H100.2 | BM.GPU.H100.4|
 
 ## Questions and Feedback
 **adnan.akbar@oracle.com**
